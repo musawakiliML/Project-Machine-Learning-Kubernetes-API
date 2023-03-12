@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+#Project-Machine-Learning-Kubernetes-API
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/musawakiliML/Project-Machine-Learning-Kubernetes-API/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/musawakiliML/Project-Machine-Learning-Kubernetes-API/tree/master)
 
 ## Project Overview
 
